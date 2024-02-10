@@ -35,7 +35,7 @@ My graduate research lies at the intersection of natural language processing (NL
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Cell Systems(Submitted)</div><img src='images/2-prefix-tuning.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-Controllable Protein Design by Prefix-Tuning Protein Language Models &nbsp;[\[Full text\]](https://www.biorxiv.org/content/10.1101/2023.12.03.569747v1) &nbsp;[\[Full text\]](https://github.com/chen-bioinfo/PrefixProt)
+Controllable Protein Design by Prefix-Tuning Protein Language Models &nbsp;[\[Code\]](https://www.biorxiv.org/content/10.1101/2023.12.03.569747v1) &nbsp;[\[Full text\]](https://github.com/chen-bioinfo/PrefixProt)
 
 **Jiawei Luo**, Xianliang Liu, Jiahao Li, Qingcai Chen, Junjie Chen<sup>#</sup>
 
@@ -50,7 +50,7 @@ Controllable Protein Design by Prefix-Tuning Protein Language Models &nbsp;[\[Fu
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Genomics, Proteomics & Bioinformatics(In Revise)</div><img src='images/1-BERTGAT.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-Discovery of novel multi-functional peptides by using protein language models and graph-based deep learning &nbsp;[\[Full text\]](https://www.biorxiv.org/content/10.1101/2023.04.14.536982v2.full.pdf) &nbsp;[\[Full text\]](https://github.com/chen-bioinfo/iMFP-LG)
+Discovery of novel multi-functional peptides by using protein language models and graph-based deep learning &nbsp;[\[Full text\]](https://www.biorxiv.org/content/10.1101/2023.04.14.536982v2.full.pdf) &nbsp;[\[Code\]](https://github.com/chen-bioinfo/iMFP-LG)
 
 **Jiawei Luo<sup>*</sup>**, Kejuan Zhao<sup>*</sup>, Junjie Chen<sup>*#</sup>, Caihua Yang, Fuchuan Qu, Ke Yan, Yang Zhang, Bin Liu.
 
