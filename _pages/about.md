@@ -19,21 +19,25 @@ redirect_from:
 
 I am Jiawei Luo, a graduate student at the School of Computer Science and Technology, Harbin Institute of Technology (Shenzhen).
 
-My research interests focuses on developing AI/ML algorithms for Biology, including functional bioactive peptide discovery, disease diagnosis, single-cell technologies for diagnostics, therapeutics and language model. I am particularly intrigued by the application of AI/ML techniques to address biological questions and actively seek research opportunities in this interdisciplinary field.
+My research interests focuses on developing AI/ML algorithms for Biology, including drug discovery, protein design, disease diagnosis, single-cell technologies and language model. I am particularly intrigued by the application of AI/ML techniques to address biological questions and actively seek research opportunities in this interdisciplinary field.
 
 My graduate research lies at the intersection of natural language processing (NLP) and computational biology, specifically focusing on leveraging protein language models to identify and generate functional peptides.
 
+# 📖 Educations
+- M.S. in  Computer Technology, Harbin Institute of Technology, Shenzhen, *2021.09 - 2024.03(expected)* 
+- B.S. in Software Engineering, Guangdong University of Foreign Studies, *2017.09 - 2021.06* 
 
 # 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *October 2023*: &nbsp;🎉🎉, BERT-DPPIV is accepted by ACS Omega. 
 
 # 📝 Publications 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Cell Systems(Submitted)</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+(*equal contribution, #corresponding)
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Cell Systems(Submitted)</div><img src='images/2-prefix-tuning.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Controllable Protein Design by Prefix-Tuning Protein Language Models](https://www.biorxiv.org/content/10.1101/2023.12.03.569747v1)
+Controllable Protein Design by Prefix-Tuning Protein Language Models &nbsp;[\[Full text\]](https://www.biorxiv.org/content/10.1101/2023.12.03.569747v1) &nbsp;[\[Full text\]](https://github.com/chen-bioinfo/PrefixProt)
 
-**Jiawei Luo**, Xianliang Liu, Jiahao Li, Qingcai Chen, Junjie Chen
+**Jiawei Luo**, Xianliang Liu, Jiahao Li, Qingcai Chen, Junjie Chen<sup>#</sup>
 
 **Keywords**
 - Controllable Protein Design; 
@@ -43,12 +47,12 @@ My graduate research lies at the intersection of natural language processing (NL
 </div>
 
 <!-- ------ -->
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Genomics, Proteomics & Bioinformatics(In Revise)</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Genomics, Proteomics & Bioinformatics(In Revise)</div><img src='images/1-BERTGAT.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Discovery of novel multi-functional peptides by using protein language models and graph-based deep learning](https://www.biorxiv.org/content/10.1101/2023.04.14.536982v2.full.pdf)
+Discovery of novel multi-functional peptides by using protein language models and graph-based deep learning &nbsp;[\[Full text\]](https://www.biorxiv.org/content/10.1101/2023.04.14.536982v2.full.pdf) &nbsp;[\[Full text\]](https://github.com/chen-bioinfo/iMFP-LG)
 
-**Jiawei Luo**, Kejuan Zhao, Junjie Chen, Caihua Yang, Fuchuan Qu, Ke Yan, Yang Zhang, Bin Liu.
+**Jiawei Luo<sup>*</sup>**, Kejuan Zhao<sup>*</sup>, Junjie Chen<sup>*#</sup>, Caihua Yang, Fuchuan Qu, Ke Yan, Yang Zhang, Bin Liu.
 
 **Keywords**
 - Multi-functional Peptide Discovery; 
@@ -57,16 +61,15 @@ My graduate research lies at the intersection of natural language processing (NL
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACS Omega</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACS Omega</div><img src='images/0-BERT-DPPIV.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Exploration of DPP-IV Inhibitory Peptide Design Rules Assisted by the Deep Learning Pipeline That Identifies the Restriction Enzyme Cutting Site](https://pubs.acs.org/doi/epdf/10.1021/acsomega.3c05571)
+Exploration of DPP-IV Inhibitory Peptide Design Rules Assisted by the Deep Learning Pipeline That Identifies the Restriction Enzyme Cutting Site &nbsp;[\[Full text\]](https://pubs.acs.org/doi/epdf/10.1021/acsomega.3c05571) &nbsp;[\[Code\]](https://github.com/guanchangge/BERT-DPPIV)
 
-**Jiawei Luo**, Xianliang Liu, Jiahao Li, Qingcai Chen, Junjie Chen
+Changge Guan<sup>*</sup>, **Jiawei Luo<sup>*</sup>**, Shucheng Li<sup>*</sup>, Zheng Lin Tan<sup>*</sup>, Yi Wang, Haihong Chen, Naoyuki Yamamoto, Chong Zhang, Yuan Lu, Junjie Chen, Xin-Hui Xing<sup>#</sup>. 
 
 **Keywords**
-- Controllable Protein Design; 
-- Prefix Tuning;
+- Peptide Design; 
 - Protein Language Model;
 </div>
 </div>
@@ -74,12 +77,11 @@ My graduate research lies at the intersection of natural language processing (NL
 
 
 # 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *September 2023*, First Prize Winner, CBC2022 Competition(Protein Pre-training)
+- *August 2022*, First Prize Winner - CCAC 2022 AI-Debater Competition
+- *2021, 2022, 2023*, University First Prize Scholarship, Harbin Institute of Technology(Shenzhen)
 
-# 📖 Educations
-- M.S. in  Computer Technology, Harbin Institute of Technology, Shenzhen, *2021.09 - 2024.03(expected)* 
-- B.S. in Software Engineering, Guangdong University of Foreign Studies, *2017.09 - 2021.06* 
+
 
 
 # 🌏 Visitor Map
@@ -92,3 +94,6 @@ My graduate research lies at the intersection of natural language processing (NL
 <!-- 
 # 💻 Internships
 - *2019.05 - 2020.02*, [Lorem](https://github.com/), China. -->
+
+<script charset="UTF-8" id="LA_COLLECT" src="//sdk.51.la/js-sdk-pro.min.js"></script>
+<script>LA.init({id:"K82HxTvWHDB2F2T3",ck:"K82HxTvWHDB2F2T3"})</script>
