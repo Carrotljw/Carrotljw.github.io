@@ -95,5 +95,3 @@ Changge Guan<sup>*</sup>, **Jiawei Luo<sup>*</sup>**, Shucheng Li<sup>*</sup>, Z
 # 💻 Internships
 - *2019.05 - 2020.02*, [Lorem](https://github.com/), China. -->
 
-<script charset="UTF-8" id="LA_COLLECT" src="//sdk.51.la/js-sdk-pro.min.js"></script>
-<script>LA.init({id:"K82HxTvWHDB2F2T3",ck:"K82HxTvWHDB2F2T3"})</script>
