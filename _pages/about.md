@@ -36,7 +36,7 @@ My graduate research lies at the intersection of natural language processing (NL
 <div class='paper-box-text' markdown="1">
 
 Controllable Protein Design by Prefix-Tuning Protein Language Models &nbsp;
-[\[Code\]](https://www.biorxiv.org/content/10.1101/2023.12.03.569747v1) &nbsp;[\[Full text\]](https://github.com/chen-bioinfo/PrefixProt)
+[\[Full text\]](https://www.biorxiv.org/content/10.1101/2023.12.03.569747v1) &nbsp;[\[Code\]](https://github.com/chen-bioinfo/PrefixProt)
 
 **Jiawei Luo**, Xianliang Liu, Jiahao Li, Qingcai Chen, Junjie Chen<sup>#</sup>
 
