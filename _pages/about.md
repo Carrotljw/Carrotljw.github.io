@@ -83,7 +83,6 @@ Changge Guan<sup>*</sup>, **Jiawei Luo<sup>*</sup>**, Shucheng Li<sup>*</sup>, Z
 - *September 2023*, First Prize Winner, CBC2022 Competition(Protein Pre-training)
 - *August 2022*, First Prize Winner - CCAC 2022 AI-Debater Competition
 - *2021, 2022, 2023*, University First Prize Scholarship, Harbin Institute of Technology(Shenzhen)
-<<<<<<< HEAD
 
 
 
@@ -91,18 +90,6 @@ Changge Guan<sup>*</sup>, **Jiawei Luo<sup>*</sup>**, Shucheng Li<sup>*</sup>, Z
 # 🌏 Visitor Map
 <script type="text/javascript" src="//rf.revolvermaps.com/0/0/6.js?i=54e0ojatafc&amp;m=7&amp;c=e63100&amp;cr1=ffffff&amp;f=arial&amp;l=0&amp;bv=90&amp;lx=-420&amp;ly=420&amp;hi=20&amp;he=7&amp;hc=a8ddff&amp;rs=80" async="async"></script>
 
-=======
-
-
-
-
-# 🌏 Visitor Map
-<script type="text/javascript" src="//rf.revolvermaps.com/0/0/6.js?i=54e0ojatafc&amp;m=7&amp;c=e63100&amp;cr1=ffffff&amp;f=arial&amp;l=0&amp;bv=90&amp;lx=-420&amp;ly=420&amp;hi=20&amp;he=7&amp;hc=a8ddff&amp;rs=80" async="async"></script>
-
-<script charset="UTF-8" id="LA_COLLECT" src="//sdk.51.la/js-sdk-pro.min.js"></script>
-<script>LA.init({id:"KLOhdI1Dma5CumAB",ck:"KLOhdI1Dma5CumAB"})</script>
-
->>>>>>> 601a1428429e0f3ddecdc707743361aa050763b6
 <!-- # 💬 Invited Talks
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/) -->
