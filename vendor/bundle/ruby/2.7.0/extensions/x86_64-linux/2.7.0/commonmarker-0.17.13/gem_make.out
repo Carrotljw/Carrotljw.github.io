@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 current directory: /geniusland/home/luojiawei1/project2024/Carrotljw.github.io/vendor/bundle/ruby/2.7.0/gems/commonmarker-0.17.13/ext/commonmarker
 /usr/bin/ruby2.7 -I /usr/lib/ruby/2.7.0 -r ./siteconf20240208-310534-1g0ex10.rb extconf.rb
 creating Makefile
@@ -6,6 +7,16 @@ current directory: /geniusland/home/luojiawei1/project2024/Carrotljw.github.io/v
 make "DESTDIR=" clean
 
 current directory: /geniusland/home/luojiawei1/project2024/Carrotljw.github.io/vendor/bundle/ruby/2.7.0/gems/commonmarker-0.17.13/ext/commonmarker
+=======
+current directory: /geniusland/home/luojiawei1/project2024/Personal/Carrotljw.github.io/vendor/bundle/ruby/2.7.0/gems/commonmarker-0.17.13/ext/commonmarker
+/usr/bin/ruby2.7 -I /usr/lib/ruby/2.7.0 -r ./siteconf20240210-1148733-kzstlb.rb extconf.rb
+creating Makefile
+
+current directory: /geniusland/home/luojiawei1/project2024/Personal/Carrotljw.github.io/vendor/bundle/ruby/2.7.0/gems/commonmarker-0.17.13/ext/commonmarker
+make "DESTDIR=" clean
+
+current directory: /geniusland/home/luojiawei1/project2024/Personal/Carrotljw.github.io/vendor/bundle/ruby/2.7.0/gems/commonmarker-0.17.13/ext/commonmarker
+>>>>>>> 601a1428429e0f3ddecdc707743361aa050763b6
 make "DESTDIR="
 compiling arena.c
 compiling autolink.c
@@ -55,6 +66,12 @@ compiling utf8.c
 compiling xml.c
 linking shared-object commonmarker/commonmarker.so
 
+<<<<<<< HEAD
 current directory: /geniusland/home/luojiawei1/project2024/Carrotljw.github.io/vendor/bundle/ruby/2.7.0/gems/commonmarker-0.17.13/ext/commonmarker
 make "DESTDIR=" install
 /usr/bin/install -c -m 0755 commonmarker.so ./.gem.20240208-310534-1iuxtnu/commonmarker
+=======
+current directory: /geniusland/home/luojiawei1/project2024/Personal/Carrotljw.github.io/vendor/bundle/ruby/2.7.0/gems/commonmarker-0.17.13/ext/commonmarker
+make "DESTDIR=" install
+/usr/bin/install -c -m 0755 commonmarker.so ./.gem.20240210-1148733-1h7t7bt/commonmarker
+>>>>>>> 601a1428429e0f3ddecdc707743361aa050763b6

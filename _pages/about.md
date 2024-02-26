@@ -32,6 +32,7 @@ My graduate research lies at the intersection of natural language processing (NL
 
 # 📝 Publications 
 (*equal contribution, #corresponding)
+<<<<<<< HEAD
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Cell Systems(Under review)</div><img src='images/2-prefix-tuning.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -77,12 +78,60 @@ Changge Guan<sup>*</sup>, **Jiawei Luo<sup>*</sup>**, Shucheng Li<sup>*</sup>, Z
 </div>
 </div>
 
+=======
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Cell Systems(Submitted)</div><img src='images/2-prefix-tuning.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+Controllable Protein Design by Prefix-Tuning Protein Language Models &nbsp;
+[\[Full text\]](https://www.biorxiv.org/content/10.1101/2023.12.03.569747v1) &nbsp;[\[Code\]](https://github.com/chen-bioinfo/PrefixProt)
+
+**Jiawei Luo**, Xianliang Liu, Jiahao Li, Qingcai Chen, Junjie Chen<sup>#</sup>
+
+**Keywords**
+- Controllable Protein Design; 
+- Prefix Tuning;
+- Protein Language Model;
+</div>
+</div>
+
+<!-- ------ -->
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Genomics, Proteomics & Bioinformatics(In Revise)</div><img src='images/1-BERTGAT.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+Discovery of novel multi-functional peptides by using protein language models and graph-based deep learning 
+&nbsp;[\[Full text\]](https://www.biorxiv.org/content/10.1101/2023.04.14.536982v2.full.pdf) &nbsp;[\[Code\]](https://github.com/chen-bioinfo/iMFP-LG)
+
+**Jiawei Luo<sup>*</sup>**, Kejuan Zhao<sup>*</sup>, Junjie Chen<sup>*#</sup>, Caihua Yang, Fuchuan Qu, Ke Yan, Yang Zhang, Bin Liu.
+
+**Keywords**
+- Multi-functional Peptide Discovery; 
+- Protein Language Model; 
+- Graph Attention Network;
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACS Omega</div><img src='images/0-BERT-DPPIV.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+Exploration of DPP-IV Inhibitory Peptide Design Rules Assisted by the Deep Learning Pipeline That Identifies the Restriction Enzyme Cutting Site
+ &nbsp;[\[Full text\]](https://pubs.acs.org/doi/epdf/10.1021/acsomega.3c05571) &nbsp;[\[Code\]](https://github.com/guanchangge/BERT-DPPIV)
+
+Changge Guan<sup>*</sup>, **Jiawei Luo<sup>*</sup>**, Shucheng Li<sup>*</sup>, Zheng Lin Tan<sup>*</sup>, Yi Wang, Haihong Chen, Naoyuki Yamamoto, Chong Zhang, Yuan Lu, Junjie Chen, Xin-Hui Xing<sup>#</sup>. 
+
+**Keywords**
+- Peptide Design; 
+- Protein Language Model;
+</div>
+</div>
+
+>>>>>>> 601a1428429e0f3ddecdc707743361aa050763b6
 
 
 # 🎖 Honors and Awards
 - *September 2023*, First Prize Winner, CBC2022 Competition(Protein Pre-training)
 - *August 2022*, First Prize Winner - CCAC 2022 AI-Debater Competition
 - *2021, 2022, 2023*, University First Prize Scholarship, Harbin Institute of Technology(Shenzhen)
+<<<<<<< HEAD
 
 
 
@@ -90,6 +139,18 @@ Changge Guan<sup>*</sup>, **Jiawei Luo<sup>*</sup>**, Shucheng Li<sup>*</sup>, Z
 # 🌏 Visitor Map
 <script type="text/javascript" src="//rf.revolvermaps.com/0/0/6.js?i=54e0ojatafc&amp;m=7&amp;c=e63100&amp;cr1=ffffff&amp;f=arial&amp;l=0&amp;bv=90&amp;lx=-420&amp;ly=420&amp;hi=20&amp;he=7&amp;hc=a8ddff&amp;rs=80" async="async"></script>
 
+=======
+
+
+
+
+# 🌏 Visitor Map
+<script type="text/javascript" src="//rf.revolvermaps.com/0/0/6.js?i=54e0ojatafc&amp;m=7&amp;c=e63100&amp;cr1=ffffff&amp;f=arial&amp;l=0&amp;bv=90&amp;lx=-420&amp;ly=420&amp;hi=20&amp;he=7&amp;hc=a8ddff&amp;rs=80" async="async"></script>
+
+<script charset="UTF-8" id="LA_COLLECT" src="//sdk.51.la/js-sdk-pro.min.js"></script>
+<script>LA.init({id:"KLOhdI1Dma5CumAB",ck:"KLOhdI1Dma5CumAB"})</script>
+
+>>>>>>> 601a1428429e0f3ddecdc707743361aa050763b6
 <!-- # 💬 Invited Talks
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/) -->
