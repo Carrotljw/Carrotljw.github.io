@@ -1,5 +1,4 @@
-# main links links
-main:
+main: 
   - title: "About Me"
     url: "/#about-me"
 
@@ -15,13 +14,3 @@ main:
   - title: "Honors and Awards"
     url: "/#-honors-and-awards"
 
-
-
-<<<<<<< HEAD
-  # - title: "Invited Talks"
-  #   url: "/#-invited-talks"
-
-  # - title: "Internships"
-  #   url: "/#-internships"
-=======
->>>>>>> 601a1428429e0f3ddecdc707743361aa050763b6
