@@ -32,8 +32,7 @@ My graduate research lies at the intersection of natural language processing (NL
 
 # 📝 Publications 
 (*equal contribution, #corresponding)
-<<<<<<< HEAD
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Cell Systems(Under review)</div><img src='images/2-prefix-tuning.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Cell Systems (Under review)</div><img src='images/2-prefix-tuning.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 Controllable Protein Design by Prefix-Tuning Protein Language Models &nbsp;
@@ -49,7 +48,7 @@ Controllable Protein Design by Prefix-Tuning Protein Language Models &nbsp;
 </div>
 
 <!-- ------ -->
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Genomics, Proteomics & Bioinformatics(In Revise)</div><img src='images/1-BERTGAT.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Genomics, Proteomics & Bioinformatics (In Revise)</div><img src='images/1-BERTGAT.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 Discovery of novel multi-functional peptides by using protein language models and graph-based deep learning 
@@ -78,53 +77,6 @@ Changge Guan<sup>*</sup>, **Jiawei Luo<sup>*</sup>**, Shucheng Li<sup>*</sup>, Z
 </div>
 </div>
 
-=======
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Cell Systems(Submitted)</div><img src='images/2-prefix-tuning.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-Controllable Protein Design by Prefix-Tuning Protein Language Models &nbsp;
-[\[Full text\]](https://www.biorxiv.org/content/10.1101/2023.12.03.569747v1) &nbsp;[\[Code\]](https://github.com/chen-bioinfo/PrefixProt)
-
-**Jiawei Luo**, Xianliang Liu, Jiahao Li, Qingcai Chen, Junjie Chen<sup>#</sup>
-
-**Keywords**
-- Controllable Protein Design; 
-- Prefix Tuning;
-- Protein Language Model;
-</div>
-</div>
-
-<!-- ------ -->
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Genomics, Proteomics & Bioinformatics(In Revise)</div><img src='images/1-BERTGAT.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-Discovery of novel multi-functional peptides by using protein language models and graph-based deep learning 
-&nbsp;[\[Full text\]](https://www.biorxiv.org/content/10.1101/2023.04.14.536982v2.full.pdf) &nbsp;[\[Code\]](https://github.com/chen-bioinfo/iMFP-LG)
-
-**Jiawei Luo<sup>*</sup>**, Kejuan Zhao<sup>*</sup>, Junjie Chen<sup>*#</sup>, Caihua Yang, Fuchuan Qu, Ke Yan, Yang Zhang, Bin Liu.
-
-**Keywords**
-- Multi-functional Peptide Discovery; 
-- Protein Language Model; 
-- Graph Attention Network;
-</div>
-</div>
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACS Omega</div><img src='images/0-BERT-DPPIV.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-Exploration of DPP-IV Inhibitory Peptide Design Rules Assisted by the Deep Learning Pipeline That Identifies the Restriction Enzyme Cutting Site
- &nbsp;[\[Full text\]](https://pubs.acs.org/doi/epdf/10.1021/acsomega.3c05571) &nbsp;[\[Code\]](https://github.com/guanchangge/BERT-DPPIV)
-
-Changge Guan<sup>*</sup>, **Jiawei Luo<sup>*</sup>**, Shucheng Li<sup>*</sup>, Zheng Lin Tan<sup>*</sup>, Yi Wang, Haihong Chen, Naoyuki Yamamoto, Chong Zhang, Yuan Lu, Junjie Chen, Xin-Hui Xing<sup>#</sup>. 
-
-**Keywords**
-- Peptide Design; 
-- Protein Language Model;
-</div>
-</div>
-
->>>>>>> 601a1428429e0f3ddecdc707743361aa050763b6
 
 
 # 🎖 Honors and Awards
