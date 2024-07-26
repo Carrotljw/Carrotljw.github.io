@@ -24,7 +24,7 @@ My research interests focuses on developing AI/ML algorithms for Biology, includ
 My graduate research lies at the intersection of natural language processing (NLP) and computational biology, specifically focusing on leveraging protein language models to identify and generate functional peptides.
 
 # 📖 Educations
-- M.S. in  Computer Technology, Harbin Institute of Technology, Shenzhen, *2021.09 - 2024.03(expected)* 
+- M.S. in  Computer Technology, Harbin Institute of Technology, Shenzhen, *2021.09 - 2024.03* 
 - B.S. in Software Engineering, Guangdong University of Foreign Studies, *2017.09 - 2021.06* 
 
 # 🔥 News
