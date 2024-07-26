@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am Jiawei Luo, a graduate student at the School of Computer Science and Technology, Harbin Institute of Technology (Shenzhen).
+I am Jiawei Luo, soon to join the Oliver Stegle Lab. My research will focuses on DNA language models and single-cell studies
 
 My research interests focuses on developing AI/ML algorithms for Biology, including drug discovery, protein design, disease diagnosis, single-cell technologies and language model. I am particularly intrigued by the application of AI/ML techniques to address biological questions and actively seek research opportunities in this interdisciplinary field.
 
