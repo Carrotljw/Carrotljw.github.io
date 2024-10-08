@@ -48,7 +48,7 @@ Controllable Protein Design by Prefix-Tuning Protein Language Models &nbsp;
 </div>
 
 <!-- ------ -->
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Genomics, Proteomics & Bioinformatics (In Revise)</div><img src='images/1-BERTGAT.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Genomics, Proteomics & Bioinformatics (Accepted)</div><img src='images/1-BERTGAT.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 Discovery of novel multi-functional peptides by using protein language models and graph-based deep learning 
