@@ -17,17 +17,17 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am Jiawei Luo, soon to join the Oliver Stegle Lab. My research will focuses on DNA language models and single-cell studies
+I am Jiawei Luo, PhD student at Oliver Stegle Lab. My research focuses on DNA language models and single-cell studies
 
 My research interests focuses on developing AI/ML algorithms for Biology, including drug discovery, disease diagnosis, single-cell technologies and language model. I am particularly intrigued by the application of AI/ML techniques to address biological questions.
 
-My graduate research lies at the intersection of natural language processing (NLP) and computational biology, specifically focusing on leveraging protein language models to identify and generate functional peptides.
 
 # 📖 Educations
 - M.S. in  Computer Technology, Harbin Institute of Technology, Shenzhen, *2021.09 - 2024.03* 
 - B.S. in Software Engineering, Guangdong University of Foreign Studies, *2017.09 - 2021.06* 
 
 # 🔥 News
+- *Nov 2024:  🎉🎉, IMFP-LG is published in Genomics, Proteomics & Bioinformatics.
 - *October 2023*: &nbsp;🎉🎉, BERT-DPPIV is accepted by ACS Omega. 
 
 # 📝 Publications 
@@ -48,7 +48,7 @@ Controllable Protein Design by Prefix-Tuning Protein Language Models &nbsp;
 </div>
 
 <!-- ------ -->
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Genomics, Proteomics & Bioinformatics (Accepted)</div><img src='images/1-BERTGAT.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Genomics, Proteomics & Bioinformatics</div><img src='images/1-BERTGAT.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 Discovery of novel multi-functional peptides by using protein language models and graph-based deep learning 
