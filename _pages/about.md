@@ -27,7 +27,7 @@ My research interests focuses on developing AI/ML algorithms for Biology, includ
 - B.S. in Software Engineering, Guangdong University of Foreign Studies, *2017.09 - 2021.06* 
 
 # 🔥 News
-- *Nov 2024:  🎉🎉, IMFP-LG is published in Genomics, Proteomics & Bioinformatics.
+- *Nov 2024*:  🎉🎉, IMFP-LG is published in Genomics, Proteomics & Bioinformatics.
 - *October 2023*: &nbsp;🎉🎉, BERT-DPPIV is accepted by ACS Omega. 
 
 # 📝 Publications 
