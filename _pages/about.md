@@ -32,7 +32,7 @@ My research interests focuses on developing AI/ML algorithms for Biology, includ
 
 # 📝 Publications 
 (*equal contribution, #corresponding)
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Cell Systems (Under review)</div><img src='images/2-prefix-tuning.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">JCIM</div><img src='images/2-prefix-tuning.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 Controllable Protein Design by Prefix-Tuning Protein Language Models &nbsp;
